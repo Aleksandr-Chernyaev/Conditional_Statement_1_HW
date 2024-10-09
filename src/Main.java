@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Если возраст человека равен " + personsAgeOne + " лет то, он совершеннолетний.");
         } else System.out.println("Если возраст человека равен" + personsAgeOne + " лет то, он не достиг совершеннолетия, придется подождать.");
         if (personsAgeTwo <= 18) {
-            System.out.println("Если возраст человека равен " + personsAgeTwo + " лет то, он не достиг совершеннолетия, придется немного поджать.");
+            System.out.println("Если возраст человека равен " + personsAgeTwo + " лет то, он не достиг совершеннолетия, придется немного подождать.");
         } else System.out.println("Если возраст человека равен " +personsAgeTwo + " лет то, он совершеннолетний.");
 
         System.out.println("Задача 2");
