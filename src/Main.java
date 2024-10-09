@@ -32,7 +32,7 @@ public class Main {
         }
         if (airTemperatureHigh >= 5) {
             System.out.println("На улице " + airTemperatureHigh + " градусов, можно идти без шапки.");
-        }  else {
+        } else {
             System.out.println("На улице " + airTemperatureHigh + " градуса, нужно надеть шапку.");
         }
 
